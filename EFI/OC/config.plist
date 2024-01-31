@@ -7,7 +7,7 @@
         <key>#Version</key>
         <string>0.9.0</string>
         <key>#Website</key>
-        <string>https://github.com/hackintosh-efi/ThinkCentre-M910s</string>
+        <string>https://github.com/hackintosh-club/Lenovo-M710q-OpenCore</string>
         <key>ACPI</key>
         <dict>
             <key>Add</key>
